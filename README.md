@@ -1,7 +1,7 @@
 Hi! My name is Tom Marx 😃
 ========================================================================================================================================
 
-🌍 I am a Web3 Developer with 2 years of experience in Front-End, Back-End and Blockchain Development.
+🌍 I am a Web3 Developer with experience in Front-End, Back-End and Blockchain Development.
 <br/>
 
 ### Skills
