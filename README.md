@@ -1,7 +1,8 @@
 Hi! My name is Tom Marx 😃
 ========================================================================================================================================
 
-🌍 I am a Web3 Developer with experience in Front-End, Back-End and Blockchain Development.
+🌍 Web3 Developer specializing in Front-End, Back-End, and Blockchain Development.
+I am passionate about building decentralized applications that enhance user experience and drive innovation in the blockchain space. With expertise in technologies such as React, Node.js, and smart contract development, I create scalable solutions that bridge the gap between traditional web and blockchain technologies. I thrive in collaborative environments, continuously learning and adapting to the evolving Web3 landscape.
 <br/>
 
 ### Skills
